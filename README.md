@@ -1,3 +1,10 @@
+> **WARNINGS:**
+> This is only for local learning purposes only, **DO NOT** deploy this out in
+> the wild as the ENV variables can potentially be read by anyone when
+> inspecting the client code in the browser.
+>
+> If you want to deploy this somewhere, make sure to fix that problem first.
+
 # Ethereum Block Explorer
 
 The lessons this week covered the Ethereum JSON-RPC API and the `ethers.js` library giving us the ability to query the Ethereum blockchain and make transactions!
